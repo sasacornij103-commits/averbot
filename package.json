@@ -4,8 +4,12 @@
   "description": "",
   "main": "bot.js",
   "scripts": {
-  "start": "node bot.js"
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "samp-query": "^1.0.4"
   }
+}
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sasacornij103-commits/averbot.git"
