@@ -1,0 +1,24 @@
+{
+  "name": "averbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+  "start": "node bot.js"
+  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sasacornij103-commits/averbot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sasacornij103-commits/averbot/issues"
+  },
+  "homepage": "https://github.com/sasacornij103-commits/averbot#readme",
+  "dependencies": {
+    "samp-query": "^0.1.5"
+  }
+}

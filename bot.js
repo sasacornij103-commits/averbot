@@ -27,7 +27,7 @@ setInterval(() => {
     res.online,
     "/",
     res.maxplayers
-);
+   );
 
         }
     );
